@@ -1,0 +1,12 @@
+*{
+    margin: 10;
+    padding: 10;
+}
+
+.boxed{
+    border: 1px solid black;
+}
+
+ .first h1, p, a{
+    margin-left: 10px;
+ }
